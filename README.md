@@ -152,9 +152,11 @@ I welcome feedback, suggestions, and constructive criticism. If you'd like to co
 
 Contact
 
-Email: [Your Email Address]
+Email: yvonnemalinga7@gmail.com
 
-LinkedIn: Data Science Portfolio
+LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BO4uIS%2FaMQ1GLkoWI%2F57C3w%3D%3D
+
+Data Science Portfolio
 
 Welcome to my Data Science Portfolio! This repository serves as a showcase of my skills, projects, and learning journey in the field of data science. Here, you will find various projects that demonstrate my expertise and growth across different domains of data analysis, visualization, and machine learning.
 
