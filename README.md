@@ -12,8 +12,6 @@ This repository is organized into the following sections:
 
 1. Projects
 
-Each folder contains a project that highlights specific skills, techniques, and tools. Projects are organized by domain or focus area and include:
-
 Business Intelligence Dashboards: End-to-end development of dashboards for actionable insights.
 
 Machine Learning Models: Predictive modeling and algorithm implementation.
